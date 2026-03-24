@@ -2,8 +2,6 @@
 
 I analyzed a real-world e-commerce inventory dataset to uncover **pricing inefficiencies, stock risks, and revenue opportunities using SQL.**
 
-This project reflects how I think as a data analyst —  
-**not just querying data, but driving business decisions.**
 
 ---
 
